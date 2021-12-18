@@ -1,0 +1,15 @@
+div {
+    align-items: center;
+    background-color: transparent;
+    text-align: center;
+    border: 5px slateblue;
+    border-radius: 1px;
+    color: black;
+    padding: 20px;
+}
+h1{
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}

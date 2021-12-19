@@ -6,8 +6,8 @@ Start with a main screen interface
 Button “Enter Portal”
 Transition to main webpage
 Tabs
-* About me
-    * Contact info
+* About Me
+    
 * Resume
     * Past jobs
     * Education

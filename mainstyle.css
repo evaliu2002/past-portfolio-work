@@ -7,12 +7,19 @@ div {
     color: black;
     padding: 20px;
 }
+
+.introduction{
+    text-align: center;
+}
+
 h1{
     text-align: center;
+    margin: 372px, 581px, 562px, 581px;
 }
 h2 {
     text-align: center;
 }
+
 a.button {
     -webkit-appearance: button;
     -moz-appearance: button;

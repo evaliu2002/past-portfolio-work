@@ -1,3 +1,25 @@
 nav {
     text-align: center;
 }
+div1 {
+    position: absolute;
+    left: 50%
+}
+
+div2 {
+    position: absolute;
+    left: 5%;
+    top: 15%;
+}
+
+div3 {
+    position: absolute;
+    left: 50%;
+    top: 15%;
+}
+
+div4 {
+    position: absolute;
+    left: 5%;
+    top: 65%
+}

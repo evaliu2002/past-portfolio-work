@@ -2,7 +2,7 @@
 div1 {
     position: absolute;
     top: 50%;
-    left: 1%;
+    left: 4%;
 }
 
 nav {
@@ -11,18 +11,6 @@ nav {
 
 div2 {
     position: absolute;
-    left: 5%;
-    top: 15%;
-}
-
-div3 {
-    position: absolute;
-    left: 50%;
-    top: 15%;
-}
-
-div4 {
-    position: absolute;
-    left: 5%;
-    top: 65%
+    left: 15%;
+    top: 5%;
 }

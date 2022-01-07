@@ -1,28 +1,29 @@
-
-div1 {
-    position: absolute;
-    top: 50%;
-    left: 1%;
+nav1 {
+    text-align: left;
+    top: 30%;
+    left: 4%;
 }
 
-nav {
+nav2 {
     text-align: left;
+    top: 60%;
+    left: 4%;
 }
 
 div2 {
     position: absolute;
-    left: 5%;
-    top: 15%;
+    left: 15%;
+    top: 5%;
 }
 
 div3 {
     position: absolute;
-    left: 50%;
-    top: 15%;
+    left: 55%;
+    top: 5%;
 }
 
 div4 {
     position: absolute;
-    left: 5%;
-    top: 65%
+    left: 15%;
+    top: 50%
 }

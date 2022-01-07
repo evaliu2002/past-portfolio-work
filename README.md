@@ -6,19 +6,20 @@ Have nagivation bar buttons display one at a time and slide from left to a certa
 Once all buttons appear, slide out resume webpage content from left to right
 For each webpage transition, have each webpage content slide from left to right and the old content disappears
 Button highlight indicators to show which webpage you are on
-Have a animating EVA - AVA symbol on top left to have fun!
-* Name
+Website logo above the first nav button.
+* Main: Name
 * Education
-Button “Enter Portal”
+Button “More Info"
 Transition to main webpage
 Tabs
-* About Me
+* About Me - Small description of who I am (Maybe this should go on main page...)
 * Resume
     * Past jobs
     * Education
     * Certificates
-    * Volunteer
+    * Volunteering
 * Projects
-* Fun game tab
+* Contact Me
+<!-- * Fun game tab
     * Snake
-    * Tetris
+    * Tetris -->

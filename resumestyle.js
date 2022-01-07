@@ -1,1 +1,1 @@
-resumepage.getElementById("nav1").innerHTML = "whatever";
+resumepage.getElementById("nav1").innerText = "whatever";

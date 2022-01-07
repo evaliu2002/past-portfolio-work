@@ -1,16 +1,36 @@
-div1 {
-    background-color: gray;
+body {
+    background-color: rgb(184, 184, 184);
+}
+
+nav {
+    text-align: center;
 }
 
 .buttonh {
-    text-align: left;
-    top: 30%;
+    position: absolute;
+    text-align: center;
+    top: 20%;
     left: 4%;
 }
 
 .buttonr {
-    text-align: left;
+    position: absolute;
+    text-align: center;
+    top: 40%;
+    left: 4%;
+}
+
+.buttonp {
+    position: absolute;
+    text-align: center;
     top: 60%;
+    left: 4%;
+}
+
+.buttonc {
+    position: absolute;
+    text-align: center;
+    top: 80%;
     left: 4%;
 }
 
@@ -29,5 +49,5 @@ div3 {
 div4 {
     position: absolute;
     left: 15%;
-    top: 50%
+    top: 60%
 }

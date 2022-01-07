@@ -1,5 +1,12 @@
+
+div1 {
+    position: absolute;
+    top: 50%;
+    left: 1%;
+}
+
 nav {
-    text-align: center;
+    text-align: left;
 }
 
 div2 {

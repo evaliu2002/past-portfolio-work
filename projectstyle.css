@@ -10,28 +10,68 @@ nav {
     position: absolute;
     text-align: center;
     top: 20%;
-    left: 4%;
+    left: 2%;
+
+    border-radius: 5px;
+    border: 1px white;
+
+    /* background-color: none; */
+    color: white;
+    padding: 20px 20px;
+    font-size: 20px;
+    cursor: pointer;
+    text-decoration: none;
 }
 
 .buttonr {
     position: absolute;
     text-align: center;
     top: 40%;
-    left: 4%;
+    left: 2%;
+
+    border-radius: 5px;
+    border: 1px white;
+
+    /* background-color: none; */
+    color: white;
+    padding: 20px 20px;
+    font-size: 20px;
+    cursor: pointer;
+    text-decoration: none;
 }
 
 .buttonp {
     position: absolute;
     text-align: center;
     top: 60%;
-    left: 4%;
+    left: 2%;
+
+    border-radius: 5px;
+    border: 1px white;
+
+    /* background-color: none; */
+    color: white;
+    padding: 20px 20px;
+    font-size: 20px;
+    cursor: pointer;
+    text-decoration: none;
 }
 
 .buttonc {
     position: absolute;
     text-align: center;
     top: 80%;
-    left: 4%;
+    left: 2%;
+
+    border-radius: 5px;
+    border: 1px white;
+
+    /* background-color: none; */
+    color: white;
+    padding: 20px 20px;
+    font-size: 20px;
+    cursor: pointer;
+    text-decoration: none;
 }
 
 div2 {

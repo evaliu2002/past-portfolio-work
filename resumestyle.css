@@ -1,10 +1,14 @@
-nav1 {
+div1 {
+    background-color: gray;
+}
+
+.buttonh {
     text-align: left;
     top: 30%;
     left: 4%;
 }
 
-nav2 {
+.buttonr {
     text-align: left;
     top: 60%;
     left: 4%;

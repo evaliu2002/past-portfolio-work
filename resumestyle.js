@@ -1,0 +1,1 @@
+resumepage.getElementById("nav1").innerText = "whatever";

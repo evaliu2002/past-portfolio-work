@@ -1,3 +1,9 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    /* background-image: url("file:///Users/evaliu/Documents/Projects/Portfolio/seattle-skyline-at-night-view-4k-se.jpeg"); */
+    background-image: url("file:///Users/evaliu/Documents/Projects/Portfolio/seattleSkyline.jpg");
+    background-size: cover;
+}
 
 h1{
     text-align: center;
@@ -41,10 +47,4 @@ div2 {
     text-decoration: none;
 
     /* border-radius: 3px; */
-}
-
-body {
-    background-image: url(https://wallpaperaccess.com/full/233166.jpg);
-    background-size: cover;
-    
 }

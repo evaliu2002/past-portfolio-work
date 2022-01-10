@@ -1,8 +1,9 @@
 body {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: "Open Sans", sans-serif;
     /* background-image: url("file:///Users/evaliu/Documents/Projects/Portfolio/seattle-skyline-at-night-view-4k-se.jpeg"); */
     background-image: url("file:///Users/evaliu/Documents/Projects/Portfolio/seattleSkyline.jpg");
     background-size: cover;
+
 }
 
 h1{
@@ -24,7 +25,7 @@ div2 {
 
 .mainbutton {
     position: absolute;
-    top: 57%;
+    top: 60%;
     left: 50%;
     transform: translate(-50%, -50%);
 

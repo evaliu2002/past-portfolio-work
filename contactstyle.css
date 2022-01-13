@@ -73,3 +73,18 @@ nav {
     cursor: pointer;
     text-decoration: none;
 }
+
+div2{
+    position: absolute;
+    left: 15%;
+    top: 5%;
+}
+
+fieldset{
+    position: relative;
+    height: 50%;
+    width: 80%;
+    background: #ffffff;
+    text-align: center;
+    margin: auto;
+}

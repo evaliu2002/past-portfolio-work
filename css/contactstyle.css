@@ -6,7 +6,7 @@ nav {
     text-align: center;
 }
 
-.buttonh {
+.mainButton {
     position: absolute;
     text-align: center;
     top: 20%;
@@ -23,7 +23,7 @@ nav {
     text-decoration: none;
 }
 
-.buttonr {
+.resumeButton {
     position: absolute;
     text-align: center;
     top: 40%;
@@ -40,7 +40,7 @@ nav {
     text-decoration: none;
 }
 
-.buttonp {
+.projectButton {
     position: absolute;
     text-align: center;
     top: 60%;
@@ -57,7 +57,7 @@ nav {
     text-decoration: none;
 }
 
-.buttonc {
+.contactButton {
     position: absolute;
     text-align: center;
     top: 80%;
@@ -83,7 +83,6 @@ div2{
 fieldset{
     margin: auto;
     height: 5%;
-    width: 70%;
     background: transparent;
     text-align: center;
     border-color: transparent;
@@ -91,14 +90,16 @@ fieldset{
 
 legend {
     font-size:xx-large;
+    margin-bottom: 25px;
 }
 
 .fieldsetContain {
     position: absolute;
     top: 50%;
+    left: 25%;
     margin: auto;
-    width: 100%;
-    height: 100%;
+    width: 60%;
+    height: 50%;
 }
 
 fieldset input {
@@ -108,4 +109,5 @@ fieldset input {
 .submitbutton {
     position: absolute;
     left: 50%;
+    top: 25%;
 }
